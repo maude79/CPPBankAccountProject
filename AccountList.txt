@@ -1,0 +1,5 @@
+CheckingAccount MrTompson 10000 3
+CheckingAccount MsLewis 5000000
+SavingsAccount MsPierce 2000
+SavingsAccount MrDouglas 
+Blah Blah 100
