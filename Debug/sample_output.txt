@@ -1,0 +1,26 @@
+Cannot create Account info from file entry: SavingsAccount MrDouglas 
+Unrecognized Account Type: Blah, creating Invalid Account
+
+Registered Accounts=========================================
+AccountType    AccountHolder          Balance         Fee/IR
+------------------------------------------------------------
+Checking       MrTompson             10000.00     Fee: 5.00$
+Checking       MsLewis             5000000.00     Fee: 5.00$
+Saving         MsPierce               2000.00      IR: 5.00%
+
+
+Depositing $1000.00 to Accounts ============================
+AccountType    AccountHolder          Balance         Fee/IR
+------------------------------------------------------------
+Checking       MrTompson             11000.00     Fee: 5.00$
+Checking       MsLewis             5001000.00     Fee: 5.00$
+Saving         MsPierce               3050.00      IR: 5.00%
+
+
+Withdrawing $2000.00 from Accounts =========================
+AccountType    AccountHolder          Balance         Fee/IR
+------------------------------------------------------------
+Checking       MrTompson              8995.00     Fee: 5.00$
+Checking       MsLewis             4998995.00     Fee: 5.00$
+Saving         MsPierce               1050.00      IR: 5.00%
+
